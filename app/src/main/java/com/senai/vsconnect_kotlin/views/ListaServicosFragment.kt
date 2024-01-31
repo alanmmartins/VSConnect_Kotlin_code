@@ -1,5 +1,6 @@
 package com.senai.vsconnect_kotlin.views
 
+import android.content.Context
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -36,6 +37,8 @@ class ListaServicosFragment : Fragment() {
         _binding = FragmentListaServicosBinding.inflate(inflater, container, false)
 
         val root: View = binding.root
+
+
 
         // organiza os itens da Recycler em ordem vertical, sendo um debaixo do outro
         binding.recyclerServicos.layoutManager = LinearLayoutManager(requireContext())
