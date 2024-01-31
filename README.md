@@ -20,10 +20,22 @@ Facilidade para usuários carregarem suas fotos de perfil, com tratamento seguro
 Persistência de Dados Eficiente:
 Implementação eficaz de persistência de dados, garantindo integridade e segurança das informações, mesmo offline.
 
-O VSCONNECT oferece uma solução completa para a gestão de usuários em dispositivos móveis, destacando-se pela aplicação competente das Capacidades Hard Skills.
+O VSCONNECT oferece uma solução completa para a gestão de usuários em dispositivos móveis, destacando-se pela aplicação competente das Capacidades Hard Skills. ou era p ser
 
-![TELA_DE_LOGIN](https://github.com/alanmmartins/VSConnect_Kotlin_code/assets/63621071/1dd6a806-aa4b-4943-bf52-5772d6af5dbc)
+## login
 
-![Screenshot_20240130_211420](https://github.com/alanmmartins/VSConnect_Kotlin_code/assets/63621071/8effa5c5-3ce2-43d9-9e9a-7d90d7017531)
-![Screenshot_20240130_211401](https://github.com/alanmmartins/VSConnect_Kotlin_code/assets/63621071/a15d337e-b3b9-473c-b5c4-8d765344acf8)
-![Screenshot_20240130_211342](https://github.com/alanmmartins/VSConnect_Kotlin_code/assets/63621071/3fd49d4e-0282-4206-a91f-b57ab6e565f0)
+<img src="https://github.com/alanmmartins/VSConnect_Kotlin_code/assets/63621071/1dd6a806-aa4b-4943-bf52-5772d6af5dbc" alt="TELA_DE_LOGIN" width="280" height="550">
+<br>
+
+## Hamburgett
+<img src="https://github.com/alanmmartins/VSConnect_Kotlin_code/assets/63621071/8effa5c5-3ce2-43d9-9e9a-7d90d7017531" alt="TELA_DE_LOGIN" width="280" height="550">
+<br>
+
+## me da ibagens
+<img src="https://github.com/alanmmartins/VSConnect_Kotlin_code/assets/63621071/a15d337e-b3b9-473c-b5c4-8d765344acf8" alt="TELA_DE_LOGIN" width="280" height="550">
+<br>
+
+## SERVce
+<img src="https://github.com/alanmmartins/VSConnect_Kotlin_code/assets/63621071/3fd49d4e-0282-4206-a91f-b57ab6e565f0" alt="TELA_DE_LOGIN" width="280" height="550">
+
+
